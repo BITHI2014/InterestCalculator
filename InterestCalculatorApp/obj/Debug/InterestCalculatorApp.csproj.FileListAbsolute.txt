@@ -1,0 +1,9 @@
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe.config
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Form1.resources
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Properties.Resources.resources
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.pdb
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.exe
+E:\Visual Studio Work\Bithi\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.pdb
